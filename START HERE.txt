@@ -1,0 +1,10 @@
+Design Thinking Study Studio
+
+1. Extract the ZIP.
+2. Open index.html in your browser.
+
+Includes Units 1 and 2, 20 topics, 60 flashcards and 60 practice questions.
+Study interactions work offline. Google fonts and source links need internet; system fonts are used offline.
+Quiz progress lasts only for the current visit.
+
+Live website: https://design-thinking-study-studio.prathish-07012008.chatgpt.site
